@@ -22,7 +22,6 @@ void fibonacci(int a){
 
 
 int main () {
-	// fibonacci sayi dizisinin ilk 20 elemanini hesaplayip bir diziye yerleþtiren fonksiyon.
 	
 	fibonacci(20);
 	
